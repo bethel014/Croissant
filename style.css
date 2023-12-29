@@ -3,7 +3,8 @@
   padding: 0;
 }
 
-h1 {
+h1,
+h2 {
   font-size: 96px;
   text-align: center;
   color: chocolate;
@@ -12,4 +13,16 @@ h1 {
   font-size: 25px;
   text-align: center;
   display: block;
+}
+.img {
+  text-align: center;
+}
+.img a {
+  text-decoration: none;
+  font-size: 18px;
+  border: 1px solid;
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+  padding: 10px;
 }
